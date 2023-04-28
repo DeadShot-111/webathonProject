@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/DeadShot-111/webathonProject/static/css/main.582b3481.css",
-    "main.js": "/DeadShot-111/webathonProject/static/js/main.98c270d1.js",
-    "static/js/787.a77f89fe.chunk.js": "/DeadShot-111/webathonProject/static/js/787.a77f89fe.chunk.js",
-    "static/media/header-img.svg": "/DeadShot-111/webathonProject/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
-    "static/media/CentraNo2-Bold.ttf": "/DeadShot-111/webathonProject/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
-    "static/media/CentraNo2-Medium.ttf": "/DeadShot-111/webathonProject/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
-    "static/media/CentraNo2-Book.ttf": "/DeadShot-111/webathonProject/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/footer-bg.png": "/DeadShot-111/webathonProject/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/contact-img.svg": "/DeadShot-111/webathonProject/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
-    "static/media/nav-icon3.svg": "/DeadShot-111/webathonProject/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
-    "static/media/logo.svg": "/DeadShot-111/webathonProject/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
-    "index.html": "/DeadShot-111/webathonProject/index.html",
-    "static/media/nav-icon1.svg": "/DeadShot-111/webathonProject/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "static/media/nav-icon2.svg": "/DeadShot-111/webathonProject/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.582b3481.css.map": "/DeadShot-111/webathonProject/static/css/main.582b3481.css.map",
-    "main.98c270d1.js.map": "/DeadShot-111/webathonProject/static/js/main.98c270d1.js.map",
-    "787.a77f89fe.chunk.js.map": "/DeadShot-111/webathonProject/static/js/787.a77f89fe.chunk.js.map"
+    "main.css": "/webathonProject/static/css/main.3fad8ea1.css",
+    "main.js": "/webathonProject/static/js/main.13a74452.js",
+    "static/js/787.a77f89fe.chunk.js": "/webathonProject/static/js/787.a77f89fe.chunk.js",
+    "static/media/header-img.svg": "/webathonProject/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/webathonProject/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/webathonProject/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/webathonProject/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/webathonProject/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/webathonProject/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/nav-icon3.svg": "/webathonProject/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/logo.svg": "/webathonProject/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "/webathonProject/index.html",
+    "static/media/nav-icon1.svg": "/webathonProject/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/webathonProject/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.3fad8ea1.css.map": "/webathonProject/static/css/main.3fad8ea1.css.map",
+    "main.13a74452.js.map": "/webathonProject/static/js/main.13a74452.js.map",
+    "787.a77f89fe.chunk.js.map": "/webathonProject/static/js/787.a77f89fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.582b3481.css",
-    "static/js/main.98c270d1.js"
+    "static/css/main.3fad8ea1.css",
+    "static/js/main.13a74452.js"
   ]
 }
